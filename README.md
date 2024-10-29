@@ -1,12 +1,11 @@
 # Switch-Toolbox
 A tool to edit many formats of Nintendo Switch, 3DS and Wii U. 
 
-## Notice
-
-**This tool is now archived and no longer in development!**
+> [!NOTE]
+> This fork is making changes that I personally find useful, I am not knowledgeable enough about the Switch or other consoles to continue feature development. This fork is designed for quality of life.
 
 # Download
-https://github.com/KillzXGaming/Switch-Toolbox/releases
+Downloads are not provided for this fork, consider downloading from the original repo.
 
 Keep in mind this tool is still very experimental. If something breaks from a commit, you can download manually from [here](https://ci.appveyor.com/project/KillzXGaming/switch-toolbox/history). Just select a commit, go to artifacts tab and download the zip. Also be sure to report anything that breaks to [issues here](https://github.com/KillzXGaming/Switch-Toolbox/issues) on github. 
 
@@ -14,7 +13,7 @@ Keep in mind this tool is still very experimental. If something breaks from a co
 https://discord.gg/eyvGXWP
 
 ## Support 
-If you'd like to support me, you can [donate!](https://www.paypal.com/donate?business=TCG7P6PH6V3PU&currency_code=USD)
+If you'd like to support the original developer, you can [donate!](https://www.paypal.com/donate?business=TCG7P6PH6V3PU&currency_code=USD)
 
 ## Features
 
